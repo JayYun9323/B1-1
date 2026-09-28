@@ -30,9 +30,9 @@ Codyssey B1-1 Project
 
 head와 body의 분리
 ----------------
-html
-├── head
-│   └── 문자 인코딩, 페이지 제목, CSS·JavaScript 연결
-│
-└── body
-    └── 사용자가 화면에서 보게 될 내용
+# html
+>head
+>   >문자 인코딩, 페이지 제목, CSS·JavaScript 연결
+
+>body
+>   >사용자가 화면에서 보게 될 내용
