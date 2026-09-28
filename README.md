@@ -7,17 +7,17 @@ Codyssey B1-1 Project
 디렉토리 나누기
 -----------
 
-# HTML
+## HTML
 어떤 내용과 요소가 존재하는 지 정의
 
-# CSS
+## CSS
 요소가 어떻게 보이고 배치되는지 정의
 
-# JS (JavaScript)
+## JS (JavaScript)
 이벤트에 반응하고 요소를 변경
 
 
-## 개발자 코멘트
+### 개발자 코멘트
 각 요소는 별개의 요소이면서, 동시에 하나의 기능을 나눠서 담당하는 도구로 이해.
 
 확장 프로그램
@@ -30,9 +30,10 @@ Codyssey B1-1 Project
 
 head와 body의 분리
 ----------------
-# html
+### html
 >head
 >   >문자 인코딩, 페이지 제목, CSS·JavaScript 연결
 
 >body
 >   >사용자가 화면에서 보게 될 내용
+
